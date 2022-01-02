@@ -26,17 +26,17 @@ I am 32 years old, I work as a microelectronics engineer at the Lithuanian compa
   * qualification - radio electronics engineer
 ****
 ## Experience
-* _2010 - 2011_ "КУП Минсксанавтотранс"
+* _2010 - 2011_ __"КУП Минсксанавтотранс"__
   * Position - mechanic
-* _2011 - 2013_ "ООО Автошаг"
+* _2011 - 2013_ __"ООО Автошаг"__
   * Position - auto parts sales consultant
-* _2013 - 2014_ "ЧТУП Кплюс Авто"
+* _2013 - 2014_ __"ЧТУП Кплюс Авто"__
   * Position - auto parts sales consultant
-* _2014 - 2015_ "ООО Тессел Трейдинг Групп"
+* _2014 - 2015_ __"ООО Тессел Трейдинг Групп"__
   * Position - auto parts sales consultant
-* _2015 - 2021_ "ИП Казаков Д.И. Remmedia.by"
+* _2015 - 2021_ __"ИП Казаков Д.И. Remmedia.by"__
   * Position - microelectronics engineer / Repair specialist / manager
-* _2021 - Until now_ UAB "Balitana"
+* _2021 - Until now_ __UAB "Balitana"__
   * Position - microelectronics engineer / Repair specialist / manager
 ****
 ## Languages
