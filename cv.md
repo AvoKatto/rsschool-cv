@@ -46,9 +46,6 @@ I am 32 years old, I work as a microelectronics engineer at the Lithuanian compa
 ****
 ## Code Examples
 ```
-function sum(a, b) {
-  return a + b;
-}
 
 let result = sum(1, 2);
 alert( result );
