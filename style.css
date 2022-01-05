@@ -96,3 +96,46 @@
       color: #fff;
       text-decoration: none;
   }
+  #meny51 {
+    padding-left: 30px;
+    padding-top: 28px;
+  }
+  #meny52 {
+    padding-left: 30px;
+    padding-top: 28px;
+  }
+  #meny53 {
+    padding-left: 30px;
+    padding-top: 28px;
+  }
+  #meny54 {
+    padding-left: 30px;
+    padding-top: 28px;
+  }
+  #meny55 {
+    padding-left: 30px;
+    padding-top: 28px;
+  }
+  #meny56 {
+    padding-left: 30px;
+    padding-top: 28px;
+  }
+  #meny61 {
+    font-size: 20px;
+    line-height: 28px;
+  }
+  #meny62 {
+    font-size: 20px;
+    line-height: 28px;
+  }
+  #meny63 {
+    font-size: 20px;
+    line-height: 28px;
+  }
+  #meny11 {
+    display: flex;
+    justify-content: space-between;
+    font-size: 22px;
+    list-style-type: none;
+    padding: 50px;
+  }
