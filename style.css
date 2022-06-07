@@ -91,6 +91,7 @@
   }
   .data {
       padding: 20px;
+      font-size: 36px;
   }
   .tt {
       color: #fff;
@@ -138,4 +139,17 @@
     font-size: 22px;
     list-style-type: none;
     padding: 50px;
+  }
+  #pravka1 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  #pravka2 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  #code {
+    font-size: 20px;
+    background-color: rgba(80, 80, 83, 0.445);
+    border-radius: 15px;
   }
