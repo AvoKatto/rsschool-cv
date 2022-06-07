@@ -20,7 +20,7 @@
     margin: 0px;
  }
  html {
-      overflow-x: hidden; 
+      overflow-x: hidden;
 }
  .content {
     max-width: 960px;
@@ -34,7 +34,7 @@
     padding: 50px;
  }
   h2 {
-  font-size: 32px;    
+  font-size: 32px;
   }
   .imgme {
     height: 312px;
