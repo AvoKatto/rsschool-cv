@@ -1,4 +1,7 @@
-.color1 {
+  html {
+    scroll-behavior: smooth;
+  }
+  .color1 {
     color: rgb(255, 255, 255);
     text-align: center;
   }
