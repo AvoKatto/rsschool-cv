@@ -1,0 +1,172 @@
+  html {
+    scroll-behavior: smooth;
+  }
+  .color1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+  }
+  .color2 {
+    position: relative;
+    left: 750px;
+ }
+ .color3 {
+     text-align: center;
+ }
+ body {
+    background: rgb(247, 242, 242) url(fon.jpg);
+    background-attachment: fixed;
+    color: #fff;
+    padding: 0px;
+    margin: 0px;
+ }
+ html {
+      overflow-x: hidden;
+}
+ .content {
+    max-width: 960px;
+    margin: auto;
+ }
+ #meny {
+    display: flex;
+    justify-content: space-between;
+    font-size: 22px;
+    list-style-type: none;
+    padding: 50px;
+ }
+  h2 {
+  font-size: 32px;
+  }
+  .imgme {
+    height: 312px;
+    border-radius: 12%;
+    margin-top: 60px;
+    box-shadow: 0px 5px 20px 11px rgba(0, 0, 0, 1);
+  }
+  h1 {
+      font-size: 60px;
+      font-variant: small-caps;
+  }
+  #meny2 {
+      display: flex;
+      justify-content: space-between;
+  }
+  #meny3 {
+     padding-bottom: 0px;
+     font-size: 20px;
+  }
+  #meny4 {
+    font-size: 20px;
+    margin-left: 130px;
+    margin-top: 80px;
+    line-height: 28px;
+  }
+  #meny5 {
+      padding-left: 30px;
+      padding-top: 28px;
+  }
+  #text {
+      font-size: 21px;
+  }
+  #meny6 {
+    font-size: 20px;
+    line-height: 28px;
+  }
+  #meny7 {
+      padding-top: 20px;
+  }
+  .fon {
+    background-color: rgba(80, 80, 83, 0.445);
+    width: auto;
+    border-radius: 15px;
+  }
+  .fon2 {
+    background-color: rgba(80, 80, 83, 0.445);
+    box-shadow: 0px 3px 20px 11px rgba(0, 0, 0, 1);
+  }
+  .git {
+      width: 130px;
+  }
+  .rs {
+    width: 100px;
+  }
+  .data {
+      padding: 20px;
+      font-size: 36px;
+  }
+  .tt {
+      color: #fff;
+      text-decoration: none;
+  }
+  #meny51 {
+    padding-left: 30px;
+    padding-top: 28px;
+  }
+  #meny52 {
+    padding-left: 30px;
+    padding-top: 28px;
+  }
+  #meny53 {
+    padding-left: 30px;
+    padding-top: 28px;
+  }
+  #meny54 {
+    padding-left: 30px;
+    padding-top: 28px;
+  }
+  #meny55 {
+    padding-left: 30px;
+    padding-top: 28px;
+  }
+  #meny56 {
+    padding-left: 30px;
+    padding-top: 28px;
+  }
+  #meny61 {
+    font-size: 20px;
+    line-height: 28px;
+  }
+  #meny62 {
+    font-size: 20px;
+    line-height: 28px;
+  }
+  #meny63 {
+    font-size: 20px;
+    line-height: 28px;
+  }
+  #meny11 {
+    display: flex;
+    justify-content: space-between;
+    font-size: 22px;
+    list-style-type: none;
+    padding: 50px;
+  }
+  #pravka1 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  #pravka2 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .code {
+    font-size: 20px;
+    background-color: rgba(80, 80, 83, 0.445);
+    border-radius: 15px;
+  }
+  .a1 {
+    color: #fff;
+  }
+  #p1 {
+    padding: 20px;
+  }
+  #ul1 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  #ul2 {
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
+  .work {
+    padding-top: 20px;
+  }
